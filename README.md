@@ -26,29 +26,29 @@
 ### 🌟 Featured Projects  
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  <button style="background-color: #28a745; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; cursor: pointer; transition: transform 0.3s;">
   <a href="https://agrovision-sih.vercel.app/" style="text-decoration: none;">
+    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
       AgroVision 🌾
+    </button>
   </a>
-  </button>
 
-    <button style="background-color: #007bff; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; cursor: pointer; transition: transform 0.3s;">
   <a href="https://picaura.vercel.app/" style="text-decoration: none;">
+    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
       PicAura 🎨
-  </a>
     </button>
+  </a>
 
-    <button style="background-color: #ffc107; color: black; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; cursor: pointer; transition: transform 0.3s;">
   <a href="https://passnest-manager.vercel.app/" style="text-decoration: none;">
+    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
       PassNest 🔐
-  </a>
     </button>
+  </a>
 
-    <button style="background-color: #6c757d; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; cursor: pointer; transition: transform 0.3s;">
   <a href="https://talaganarajesh.vercel.app/" style="text-decoration: none;">
+    <button style="background-color: black; color: white; border: none; border-radius: 30px; padding: 15px 25px; font-size: 16px; font-weight: bold; cursor: pointer; transition: transform 0.3s;">
       My Portfolio 🌐
-  </a>
     </button>
+  </a>
 
 </div>
 
