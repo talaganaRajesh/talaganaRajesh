@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=1A73E8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rajesh+%F0%9F%91%8B;i'm/+Web+Developer+%26+Tech+Enthusiast!;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=1A73E8&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Rajesh+%F0%9F%91%8B;Web+Developer+%26+Tech+Enthusiast!;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing Animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Web Developer Animation" width="200" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development Animation" width="300" />
 </div>
 
 ---
@@ -23,9 +23,18 @@
 
 ### 🌟 Featured Projects  
 <div align="center">
-  <img src="https://img.shields.io/badge/-Picaura-blue?style=for-the-badge&logo=vercel" alt="Picaura" />
-  <img src="https://img.shields.io/badge/-Gym%20Website-red?style=for-the-badge&logo=vercel" alt="Gym Website" />
-  <img src="https://img.shields.io/badge/-Amazon%20Clone-yellow?style=for-the-badge&logo=vercel" alt="Amazon Clone" />
+  <a href="https://agrovision-sih.vercel.app/">
+    <img src="https://img.shields.io/badge/-AgroVision-green?style=for-the-badge&logo=vercel" alt="AgroVision: Crop Disease Detection System" />
+  </a>
+  <a href="https://picaura.vercel.app/">
+    <img src="https://img.shields.io/badge/-PicAura-blue?style=for-the-badge&logo=vercel" alt="PicAura: Photo Editor" />
+  </a>
+  <a href="https://passnest-manager.vercel.app/">
+    <img src="https://img.shields.io/badge/-PassNest-orange?style=for-the-badge&logo=vercel" alt="PassNest: Password Manager" />
+  </a>
+  <a href="https://talaganarajesh.vercel.app/">
+    <img src="https://img.shields.io/badge/-My%20Portfolio-black?style=for-the-badge&logo=vercel" alt="Portfolio Website" />
+  </a>
 </div>
 
 ---
